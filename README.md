@@ -4,12 +4,18 @@
 <p align="center">
     <h1 align="center">✩&emsp;Welcome!!&emsp;✩</h1>
 </p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;If+you+are+sparked+sth;from+my+repo;plz+give+me+star!!!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
 
+<h1 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"> Hello, I am a seasoned FullStack Developer</h1>
 <img align="right" alt="Coding" width="400" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/coding.gif?raw=true">
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=swapnilwakchaure&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilwakchaure" /> 
+<p>
+Highly qualified IT professional with successful record determining and documenting requirements for IT products, logistics and financial applications. Outstanding problem-solving, analytical and decision-making skills wih proven ability contextualize solutions to callenging solutions and implement practical, cost-effective project plans. Characterized as a talented strategist, communicator, project leader, and customer relationship manager.
 </p>
+
+</div>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
@@ -75,3 +81,6 @@
   </tr>
  </table/>
 </div/>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=swapnilwakchaure&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilwakchaure" /> 
+</p>
