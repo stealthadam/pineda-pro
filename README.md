@@ -9,17 +9,18 @@
 </p>
 </div>
 
+
+
+
+
+<div align="center">
+<a href="https://github.com/devlancer-lucas?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=devlancer-lucas&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
+</div>
 <p>
 For blockchain development, I joined a Blockchain infra team as a senior blockchain engineer, which means I worked on a new blockchain network development team. I constructed dApps on the BSC network using ERC-20 and BEP-20, and I deployed a new currency called DYNXT, as well as presale, swap, liquidity, and vault contracts. NFT has interacted with lots of developers and users, so it was rising the value before 2 years ago. At that time, I built Crystl Finance DAO and NFT Marketing platforms; my role was smart contract developer using Rust and integrated web3 into frontend.
 In the meantime, I joined a team that was building a new blockchain net; have used CosmosSDK, CosmWasm, and Golang. I have used React/Redux/Next.js and Vue.js/Vuetify/Nuxt.js with web3 integration.
 </p>
 
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-<div align="center">
-<a href="https://github.com/devlancer-lucas?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=devlancer-lucas&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
-</div>
 <h3 align="center">
  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
  Tech & Tools
