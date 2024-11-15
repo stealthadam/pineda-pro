@@ -17,7 +17,7 @@
 <a href="https://github.com/devlancer-lucas?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=devlancer-lucas&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
 </div>
 <p>
-Senior Full Stack Developer with over 10 years of experience building scalable web applications and microservices using cutting-edge technologies. My expertise spans both backend (Golang, Django, Node.js) and frontend (React, Next.js), enabling me to deliver robust and high-performing solutions. I specialize in API development, microservices architecture, and seamless front-to-back integrations. With a focus on clean code and efficient development practices, I help businesses build reliable, scalable digital products that exceed client expectations.
+Senior Full Stack Developer with over 10 years of experience building scalable web applications and microservices using cutting-edge technologies. My expertise spans both backend (PHP - (CodeIgniter, Laravel), Golang, Node.js) and frontend (React, Next.js), enabling me to deliver robust and high-performing solutions. I specialize in API development, microservices architecture, and seamless front-to-back integrations. With a focus on clean code and efficient development practices, I help businesses build reliable, scalable digital products that exceed client expectations.
 </p>
 
 <h3 align="center">
