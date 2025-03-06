@@ -17,7 +17,13 @@
 <a href="https://github.com/devlancer-lucas?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=devlancer-lucas&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
 </div>
 <p>
-Senior Full Stack Developer with over 10 years of experience building scalable web applications and microservices using cutting-edge technologies. My expertise spans both backend (PHP - (CodeIgniter, Laravel), Golang, Node.js) and frontend (React, Next.js), enabling me to deliver robust and high-performing solutions. I specialize in API development, microservices architecture, and seamless front-to-back integrations. With a focus on clean code and efficient development practices, I help businesses build reliable, scalable digital products that exceed client expectations.
+Golang Full-Stack Developer with extensive experience in building scalable microservices architectures and optimizing system performance across various domains, including travel-booking systems, fintech, and e-commerce. Proficient in API development, real-time data processing, and integrating external systems to deliver robust solutions.
+
+Experienced in utilizing Golang, React, Next.js, and cloud-native technologies such as AWS, Docker, and Kubernetes to create efficient and maintainable systems. Adept at database management, writing high-performance code, and ensuring system reliability through CI/CD, automated testing, and performance optimization.
+
+Proven ability to drive business growth and operational efficiency by delivering tailored technical solutions, with a strong focus on security, scalability, and concurrency.
+
+Key Skills: Golang | React | Next.js | Microservices | PostgreSQL | Kafka | Redis | AWS | Docker | Kubernetes | CI/CD | API Development | Agile Development | Fintech | Travel-Booking Systems
 </p>
 
 <h3 align="center">
